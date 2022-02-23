@@ -1,0 +1,18 @@
+.layer__first img{
+  position: absolute;
+  z-index: -2;
+  max-width: 610px
+}
+
+.layer__second .layer__second--box{
+  position: absolute;
+  z-index: -1;
+  border: 3px solid black;
+  color: green;
+  height: 520px;
+}
+
+.layer__third{
+  color: red;
+  font-size: 60px;
+}
